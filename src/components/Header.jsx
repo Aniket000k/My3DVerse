@@ -14,8 +14,8 @@ const Header = () => {
    <header className="flex justify-between items-center py-4 px-4 lg:px-20">
  <h1 data-aos="fade-down"
      data-aos-easing="linear"
-     data-aos-duration="1500" className="text-3-xl md:text-4xl lg:text-5xl font-light m-0 bg-gradient-to-r from-fuchsia-500 to-pink-500 bg-clip-text text-transparent font-bold  ">
-My3DVerse
+     data-aos-duration="1500" className="text-3-xl md:text-4xl lg:text-5xl font-light m-0 bg-gradient-to-r from-fuchsia-500 to-pink-500 bg-clip-text text-transparent font-semibold tracking-wider"> 
+MY3DVERESE
  </h1>
 
  {/* Navigation Components */}
