@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# My3DVerse
-
-A modern, responsive landing page built with **React**, **Vite**, and **Tailwind CSS**. This project features animated UI elements, a 3D hero section powered by Spline, and a mobile-friendly navigation menu.
-
-## Features
-=======
 # 🌌 My3DVerse
 
 A modern, responsive landing page built with **React**, **Vite**, and **Tailwind CSS**. This project features animated UI elements, a 3D hero section powered by Spline, and a mobile-friendly navigation menu.
@@ -12,7 +5,6 @@ A modern, responsive landing page built with **React**, **Vite**, and **Tailwind
 ---
 
 ## ✨ Features
->>>>>>> e8a8a7348ade6865571c5cb38fba6a7f88493512
 
 - ⚡ Fast development with [Vite](https://vitejs.dev/)
 - 🎨 Styled using [Tailwind CSS](https://tailwindcss.com/)
@@ -22,14 +14,6 @@ A modern, responsive landing page built with **React**, **Vite**, and **Tailwind
 - 🧭 Mobile and desktop navigation menus
 - 🦄 Custom gradient backgrounds and modern layout
 
-<<<<<<< HEAD
-## Getting Started
-
-1. **Install dependencies:**
-   ```sh
-   npm install
-   ```
-=======
 ---
 
 ## 🚀 Getting Started
@@ -38,4 +22,3 @@ A modern, responsive landing page built with **React**, **Vite**, and **Tailwind
    ```bash
    git clone https://github.com/yourusername/my3dverse.git
    cd my3dverse
->>>>>>> e8a8a7348ade6865571c5cb38fba6a7f88493512
