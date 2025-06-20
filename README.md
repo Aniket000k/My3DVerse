@@ -3,6 +3,7 @@
 A modern, responsive landing page built with **React**, **Vite**, and **Tailwind CSS**. This project features animated UI elements, a 3D hero section powered by Spline, and a mobile-friendly navigation menu.
 
 ---
+🔗 **Live Demo**: [https://my3-d-verse.vercel.app](https://my3-d-verse.vercel.app)
 
 ## ✨ Features
 
