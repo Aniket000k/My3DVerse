@@ -22,15 +22,9 @@ A modern, animated, and responsive 3D landing page built using **React**, **Vite
 
 ### 🖼️ Screenshot
 
-![My3DVerse Screenshot](./localhost_5173_1.png)
+![My3DVerse Screenshot](./public/preview_image.png)
 
-### 🎥 Demo Video
 
-https://user-images.githubusercontent.com/your-user-id/My3DVerse-Demo.mp4
-
-> ☝️ (Tip: Upload your video to GitHub, or [convert to GIF](https://ezgif.com/video-to-gif) and embed it.)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -48,3 +42,15 @@ https://user-images.githubusercontent.com/your-user-id/My3DVerse-Demo.mp4
    ```bash
    git clone https://github.com/Aniket000k/My3DVerse.git
    cd My3DVerse
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**
+   ```bash
+   npm run dev
+   ```
+4. **Open your browser**
+   Navigate to `http://localhost:5173` to see the app in action.
