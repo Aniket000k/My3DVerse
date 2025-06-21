@@ -15,10 +15,10 @@ md:mt-[60%] lg:mt-0"
           <i class="bx  bxs-diamond-alt "> 404NotFoundJi</i>
         </div>
          </div>
-        <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-semibold tracking-wider my-8">
+        <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-semibold tracking-wider my-8  bg-gradient-to-r from-fuchsia-400 to-pink-700 bg-clip-text text-transparent">
           Bringing Ideas to Life with Code <br /> Frontend to Backend
         </h1>
-     <p className="text-base sm:text-lg tracking-wider text-gray-400 max-w-[25rem] lg:max-w-[30rem]">I’m a full stack developer with experience in frontend (React.js) and backend (Node.js, Express) development. I build responsive and user-friendly websites with clean code and modern tools.</p>
+     <p className="text-base sm:text-lg tracking-wider text-gray-400 max-w-[25rem] lg:max-w-[30rem] ">I’m a full stack developer with experience in frontend (React.js) and backend (Node.js, Express) development. I build responsive and user-friendly websites with clean code and modern tools.</p>
 
      <div className="flex gap-4 mt-12">
        <a className="border border-[#2a2a2a] py-2 sm:py-3 px-4 sm:px-5 rounded-full sm:text-lg text-sm font-semibold tracking-wider transition-all duration-300 hover:bg-[#1a1a1a] " href="#">DOCUMENTATION < i class='bx  bxs-arrow-out-up-right-square'></i>  </a>
